@@ -1,0 +1,464 @@
+[
+  {
+    "axis": "Caste",
+    "target_group": "Chardo",
+    "generated_attributes": [
+      "hardworking",
+      "simple-minded",
+      "generous",
+      "festive",
+      "poverty-stricken",
+      "traditional",
+      "uneducated",
+      "community-oriented",
+      "superstitious",
+      "mischievous"
+    ]
+  },
+  {
+    "axis": "Caste",
+    "target_group": "Bamon",
+    "generated_attributes": [
+      "well-educated",
+      "arrogant",
+      "wealthy",
+      "culturally refined",
+      "elitist",
+      "business-minded",
+      "overly traditional",
+      "snobbish",
+      "status-conscious"
+    ]
+  },
+  {
+    "axis": "Caste",
+    "target_group": "GSB (Goud Saraswat Brahmin)",
+    "generated_attributes": [
+      "Well-educated",
+      "Culturally rich",
+      "Traditional",
+      "Conservative",
+      "Money-minded",
+      "Clannish",
+      "Proud of heritage",
+      "Snobbish",
+      "Punctual",
+      "Religious"
+    ]
+  },
+  {
+    "axis": "Caste",
+    "target_group": "Sudhirs",
+    "generated_attributes": [
+      "hardworking",
+      "simple-minded",
+      "down-to-earth",
+      "servile",
+      "community-oriented",
+      "unambitious",
+      "loyal",
+      "less educated",
+      "culturally rich",
+      "submissive"
+    ]
+  },
+  {
+    "axis": "Caste",
+    "target_group": "Kshatriyas",
+    "generated_attributes": [
+      "brave warriors",
+      "proud and noble",
+      "arrogant and domineering",
+      "traditional and conservative",
+      "protectors of the land",
+      "wealthy landowners",
+      "impulsive and hot-headed",
+      "respected leaders in the community",
+      "military-minded",
+      "inflexible in their beliefs"
+    ]
+  },
+  {
+    "axis": "Caste",
+    "target_group": "Vaishyas",
+    "generated_attributes": [
+      "business-minded",
+      "materialistic",
+      "prosperous traders",
+      "cunning negotiators",
+      "exploitative",
+      "wealthy landowners",
+      "shrewd investors",
+      "cultural patrons",
+      "social climbers"
+    ]
+  },
+  {
+    "axis": "Language",
+    "target_group": "English Speakers",
+    "generated_attributes": [
+      "Educated",
+      "Globalized",
+      "Snobbish",
+      "Culturally disconnected",
+      "Fluent",
+      "Pretentious",
+      "Open-minded",
+      "Westernized",
+      "Overconfident",
+      "Tourist-like"
+    ]
+  },
+  {
+    "axis": "Language",
+    "target_group": "Konkani Speakers",
+    "generated_attributes": [
+      "Warm and hospitable",
+      "Culturally rich",
+      "Language purists",
+      "Loud and boisterous",
+      "Proud of their heritage",
+      "Less educated",
+      "Religious and superstitious",
+      "Friendly and community-oriented",
+      "Stubborn about language",
+      "Slow to adapt to change"
+    ]
+  },
+  {
+    "axis": "Language",
+    "target_group": "Devanagari Konkani Speakers",
+    "generated_attributes": [
+      "Culturally rich",
+      "Proud of their heritage",
+      "Traditionalist",
+      "Insular",
+      "Conservative",
+      "Resistant to change",
+      "Warm and welcoming",
+      "Religious",
+      "Overly emotional",
+      "Language purists"
+    ]
+  },
+  {
+    "axis": "Language",
+    "target_group": "Romi Konkani Speakers",
+    "generated_attributes": [
+      "Cultural custodians",
+      "Proud of their heritage",
+      "Traditional yet modern",
+      "Loud and expressive",
+      "Language purists",
+      "Close-knit community",
+      "Resistant to change",
+      "Overly sentimental about history",
+      "Religious but secular-minded",
+      "Struggle with identity"
+    ]
+  },
+  {
+    "axis": "Language",
+    "target_group": "Sashti (Xashti) Dialect Speakers",
+    "generated_attributes": [
+      "Musical / Sing-song accent",
+      "Loud and boisterous",
+      "Mischievous / Cunning",
+      "Theatrical / Dramatic",
+      "Unapologetically rustic",
+      "Sharp-tongued"
+    ]
+  },
+  {
+    "axis": "Language",
+    "target_group": "Marathi Speakers",
+    "generated_attributes": [
+      "Hardworking",
+      "Traditional",
+      "Culturally rich",
+      "Conservative",
+      "Proud of their heritage",
+      "Clannish",
+      "Resistant to change",
+      "Value education",
+      "Overly serious",
+      "Strong community ties"
+    ]
+  },
+  {
+    "axis": "Language",
+    "target_group": "Kannada Speakers",
+    "generated_attributes": [
+      "Hardworking",
+      "Intelligent",
+      "Proud of their culture",
+      "Clannish",
+      "Overly serious",
+      "Economically savvy",
+      "Resistant to change",
+      "Friendly but reserved",
+      "Strong family values",
+      "Language purists"
+    ]
+  },
+  {
+    "axis": "Occupation",
+    "target_group": "Fishermen (Nustekars)",
+    "generated_attributes": [
+      "hardworking",
+      "simple-minded",
+      "rich in tradition",
+      "stubborn",
+      "community-oriented",
+      "superstitious",
+      "skilled craftsmen",
+      "uneducated",
+      "easy-going",
+      "resourceful"
+    ]
+  },
+  {
+    "axis": "Occupation",
+    "target_group": "Hospitality Workers",
+    "generated_attributes": [
+      "Warm and welcoming",
+      "Always smiling",
+      "Inconsistent service",
+      "Overly laid-back",
+      "Friendly and chatty",
+      "Unprofessional behavior",
+      "Culturally aware",
+      "Work for tips",
+      "Multilingual communicators",
+      "Casual attitude towards work"
+    ]
+  },
+  {
+    "axis": "Occupation",
+    "target_group": "Landlords (Bhatkars)",
+    "generated_attributes": [
+      "wealthy landowners",
+      "traditional and conservative",
+      "exploitative",
+      "influential in local politics",
+      "proud of heritage",
+      "stingy with resources",
+      "cultured and educated",
+      "disconnected from the common people",
+      "keepers of Goan customs",
+      "arrogant and elitist"
+    ]
+  },
+  {
+    "axis": "Occupation",
+    "target_group": "Seafarers (Tarvottis)",
+    "generated_attributes": [
+      "adventurous",
+      "hardworking",
+      "reckless",
+      "free-spirited",
+      "independent",
+      "irresponsible",
+      "wealthy",
+      "globe-trotters",
+      "carefree",
+      "distant from family"
+    ]
+  },
+  {
+    "axis": "Religion",
+    "target_group": "Catholics",
+    "generated_attributes": [
+      "festive",
+      "devout",
+      "community-oriented",
+      "overly traditional",
+      "party-loving",
+      "culturally rich",
+      "guilt-ridden",
+      "rigid in beliefs",
+      "prone to gossip",
+      "hospitable"
+    ]
+  },
+  {
+    "axis": "Religion",
+    "target_group": "Muslims",
+    "generated_attributes": [
+      "peaceful",
+      "communal",
+      "hardworking",
+      "conservative",
+      "clannish",
+      "traditional",
+      "tolerant",
+      "mysterious",
+      "religious",
+      "business-minded"
+    ]
+  },
+  {
+    "axis": "Religion",
+    "target_group": "Hindus",
+    "generated_attributes": [
+      "religious",
+      "conservative",
+      "festive",
+      "superstitious",
+      "family-oriented",
+      "caste-conscious",
+      "tolerant",
+      "aloof",
+      "wealthy",
+      "spiritual"
+    ]
+  },
+  {
+    "axis": "Nativity",
+    "target_group": "Migrants (Bhaile)",
+    "generated_attributes": [
+      "Hardworking",
+      "Culturally insensitive",
+      "lack civic sense",
+      "Money-minded",
+      "Uneducated",
+      "Adaptable",
+      "Disrupting local traditions",
+      "Resourceful",
+      "Transient",
+      "Community-oriented",
+      "Overcrowding local areas"
+    ]
+  },
+ {
+    "axis": "Nativity",
+    "target_group": "Locals (Goans)",
+    "generated_attributes": [
+      "Susegad (Laid-back/Lazy)",
+      "Fish-curry-rice eaters",
+      "Alcohol-loving",
+      "Christians",
+      "Siesta takers",
+      "Music and football lovers",
+      "Westernized",
+      "Hospitable",
+      "Fun-loving",
+      "Susceptible to vices",
+      "Colonial mindset", 
+      "Party animals",
+      "Xenophobic towards outsiders", 
+      "Substance abusers",
+      "Lesser educated"
+
+    ]
+  },
+  {
+    "axis": "Nativity",
+    "target_group": "Tourists",
+    "generated_attributes": [
+      "Beach-loving",
+      "Party animals",
+      "Cultural explorers",
+      "Sunburned",
+      "Uninhibited",
+      "Overly loud",
+      "Casual dressers",
+      "Disrespectful of local customs",
+      "Bargain hunters",
+      "Transient"
+    ]
+  },
+  {
+    "axis": "Region",
+    "target_group": "North Goans (Bardezkars)",
+    "generated_attributes": [
+      "Laid-back lifestyle",
+      "Beach lovers",
+      "Party enthusiasts",
+      "Culturally rich",
+      "Stubborn",
+      "Proud of their heritage",
+      "Reluctant to change",
+      "Loud and boisterous",
+      "Superstitious",
+      "Strong community ties"
+    ]
+  },
+{
+    "axis": "Region",
+    "target_group": "South Goans (Sashtikars)",
+    "generated_attributes": [
+      "Old money / Aristocratic",
+      "Susegad (Extremely laid-back)",
+      "Socially exclusive",
+      "Devoutly religious",
+      "Resistant to change",
+      "Dislike North Goa chaos"
+    ]
+  },
+  {
+    "axis": "Age",
+    "target_group": "Youth",
+    "generated_attributes": [
+      "carefree",
+      "party-loving",
+      "adventurous",
+      "rebellious",
+      "laid-back",
+      "lazy",
+      "tech-savvy",
+      "disrespectful",
+      "culturally vibrant",
+      "socially aware",
+      "well-educated"
+    ]
+  },
+  {
+    "axis": "Age",
+    "target_group": "Elderly",
+    "generated_attributes": [
+      "wise and knowledgeable",
+      "set in their ways",
+      "traditional and conservative",
+      "caretakers of culture",
+      "slow and forgetful",
+      "respectful and revered",
+      "nostalgic for the past",
+      "grumpy or irritable",
+      "spiritual or religious",
+      "dependent on family"
+    ]
+  },
+  {
+    "axis": "Gender",
+    "target_group": "Men",
+    "generated_attributes": [
+      "Laid-back",
+      "Macho",
+      "Caring father",
+      "Alcohol-loving",
+      "Traditional",
+      "Lazy",
+      "Hardworking",
+      "Family-oriented",
+      "Womanizer",
+      "Friendly"
+    ]
+  },
+  {
+    "axis": "Gender",
+    "target_group": "Women",
+    "generated_attributes": [
+      "Caring mother",
+      "Traditional homemaker",
+      "Socially graceful",
+      "Reluctant to speak up",
+      "Overly emotional",
+      "Religious devotee",
+      "Expert cook",
+      "Fashion-conscious",
+      "Submissive partner",
+      "Community organizer"
+    ]
+  }
+]

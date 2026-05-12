@@ -1,0 +1,52 @@
+{
+  "Caste": [
+    "Chardo",
+    "Bamon", 
+    "GSB (Goud Saraswat Brahmin)",
+    "Sudhirs",
+    "Kshatriyas",
+    "Vaishyas"
+  ],
+  "Language": [
+    "English Speakers",
+    "Konkani Speakers",
+    "Devanagari Konkani Speakers",
+    "Romi Konkani Speakers",
+    "Sashti (Xashti) Dialect Speakers",
+    "Marathi Speakers",
+    "Kannada Speakers",
+    "Portuguese Speakers"
+  ],
+  "Occupation": [
+    "Fishermen (Nustekars)",
+    "Hospitality Workers",
+    "Landlords (Bhatkars)",
+    "Seafarers (Tarvottis)",
+    "Farmers",
+    "Toddy Tappers",
+    "Baker (Poder)"
+    
+  ],
+  "Religion": [
+    "Catholics",
+    "Muslims",
+    "Hindus"
+  ],
+  "Nativity": [
+    "Migrants (Bhaile)",
+    "Locals (Goans)",
+    "Tourists"
+  ],
+  "Region": [
+    "North Goans (Bardezkars)",
+    "South Goans (Sashtikars)"
+  ],
+  "Age": [
+    "Youth",
+    "Elderly"
+  ],
+  "Gender": [
+    "Men",
+    "Women"
+  ]
+}
