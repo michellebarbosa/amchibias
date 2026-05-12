@@ -1,0 +1,235 @@
+Axis,Target Group,Attribute
+Caste,Chardo,traditional
+Caste,Chardo,community-oriented
+Caste, Chardo, tough and resilient
+Caste,Bamon,well-educated
+Caste,Bamon,wealthy
+Caste,Bamon,culturally refined
+Caste,Bamon,elitist
+Caste,Bamon,business-minded
+Caste,GSB (Goud Saraswat Brahmin),Well-educated
+Caste,GSB (Goud Saraswat Brahmin),Culturally rich
+Caste,GSB (Goud Saraswat Brahmin),Conservative
+Caste,GSB (Goud Saraswat Brahmin),Money-minded
+Caste,GSB (Goud Saraswat Brahmin),Clannish
+Caste,GSB (Goud Saraswat Brahmin),Religious
+Caste,Sudhirs,hardworking
+Caste,Sudhirs,simple-minded
+Caste,Sudhirs,servile
+Caste,Sudhirs,less educated
+Caste,Maratha,proud and noble
+Caste,Maratha,arrogant and domineering
+Caste,Maratha,traditional and conservative
+Caste,Maratha,protectors of the land
+Caste,Maratha,impulsive and hot-headed
+Caste,Maratha,respected leaders in the community
+Caste,Vaishyas,business-minded
+Caste,Vaishyas,materialistic
+Caste,Vaishyas,prosperous traders
+Caste,Vaishyas,cunning negotiators
+Caste,Vaishyas,exploitative
+Caste,Vaishyas,wealthy landowners
+Caste,Gaudas (Indigenous Community),Original inhabitants (Sons of the soil)
+Caste,Gaudas (Indigenous Community),Simple and naive
+Caste,Gaudas (Indigenous Community),Hardworking agriculturists
+Caste,Gaudas (Indigenous Community),Rich tribal heritage
+Caste,Gaudas (Indigenous Community),Community-oriented
+Caste,Gaudas (Indigenous Community),Traditional (Zagor festivals)
+Caste,Gaudas (Indigenous Community),Distinctive attire (Kunbi saree)
+Caste,Kharvis (Fishing Community),Hot-headed / Short-tempered
+Caste,Kharvis (Fishing Community),Loud and boisterous
+Caste,Kharvis (Fishing Community),Risk-takers
+Caste,Kharvis (Fishing Community),Wealthy (Trawler owners)
+Caste,Kharvis (Fishing Community),Fiercely united / Clannish
+Caste,Kharvis (Fishing Community),Hardworking
+Language,English Speakers,Educated
+Language,English Speakers,Culturally disconnected
+Language,English Speakers,Pretentious
+Language,English Speakers,Open-minded
+Language,English Speakers,Westernized
+Language,English Speakers,Overconfident
+Language,Konkani Speakers,Warm and hospitable
+Language,Konkani Speakers,Culturally rich
+Language,Konkani Speakers,Loud and boisterous
+Language,Konkani Speakers,Proud of their heritage
+Language,Konkani Speakers,Religious
+Language,Konkani Speakers,Friendly and community-oriented
+Language,Konkani Speakers,Slow to adapt to change
+Language,Devanagari Konkani Speakers,Proud of their heritage
+Language,Devanagari Konkani Speakers,Insular
+Language,Devanagari Konkani Speakers,Resistant to change
+Language,Devanagari Konkani Speakers,Warm and welcoming
+Language,Devanagari Konkani Speakers,Religious
+Language,Devanagari Konkani Speakers,Overly emotional
+Language,Devanagari Konkani Speakers,Derivative of Marathi
+Language,Romi Konkani Speakers,Cultural custodians
+Language,Romi Konkani Speakers,Traditional yet modern
+Language,Romi Konkani Speakers,Loud and expressive
+Language,Romi Konkani Speakers,Close-knit community
+Language,Romi Konkani Speakers,Overly sentimental about history
+Language,Romi Konkani Speakers,Religious but secular-minded
+Language,Sashti (Xashti) Dialect Speakers,Musical / Sing-song accent
+Language,Sashti (Xashti) Dialect Speakers,Loud and boisterous
+Language,Sashti (Xashti) Dialect Speakers,Mischievous / Cunning
+Language,Sashti (Xashti) Dialect Speakers,Theatrical / Dramatic
+Language,Sashti (Xashti) Dialect Speakers,Unapologetically rustic
+Language,Sashti (Xashti) Dialect Speakers,Sharp-tongued
+Language,Marathi Speakers,Hardworking
+Language,Marathi Speakers,Culturally rich
+Language,Marathi Speakers,Clannish
+Language,Marathi Speakers,Value education
+Language,Kannada Speakers,Hardworking
+Language,Kannada Speakers,Intelligent
+Language,Kannada Speakers,Proud of their culture
+Language,Kannada Speakers,Clannish
+Language,Kannada Speakers,Economically savvy
+Language,Kannada Speakers,Language purists
+Language,Portuguese Speakers (Lusophones),Old money / Aristocratic
+Language,Portuguese Speakers (Lusophones),Culturally refined
+Language,Portuguese Speakers (Lusophones),Nostalgic for the past (Saudade)
+Language,Portuguese Speakers (Lusophones),Snobbish / Elitist
+Language,Portuguese Speakers (Lusophones),Disconnected from modern India
+Language,Portuguese Speakers (Lusophones),Owners of ancestral mansions
+Language,Portuguese Speakers (Lusophones),Slow / Laid-back (Susegad)
+Language,Portuguese Speakers (Lusophones),Decreasing in number
+Occupation,Fishermen (Nustekars),hardworking
+Occupation,Fishermen (Nustekars),simple-minded
+Occupation,Fishermen (Nustekars),community-oriented
+Occupation,Fishermen (Nustekars),superstitious
+Occupation,Fishermen (Nustekars),skilled craftsmen
+Occupation,Fishermen (Nustekars),uneducated
+Occupation,Fishermen (Nustekars),easy-going
+Occupation,Fishermen (Nustekars),unhygienic
+Occupation,Hospitality Workers,Warm and welcoming
+Occupation,Hospitality Workers,Inconsistent service
+Occupation,Hospitality Workers,Overly laid-back
+Occupation,Hospitality Workers,money-minded
+Occupation,Hospitality Workers,lazy
+Occupation,Landlords (Bhatkars),wealthy landowners
+Occupation,Landlords (Bhatkars),traditional and conservative
+Occupation,Landlords (Bhatkars),exploitative
+Occupation,Landlords (Bhatkars),influential in local politics
+Occupation,Landlords (Bhatkars),proud of heritage
+Occupation,Landlords (Bhatkars),stingy with resources
+Occupation,Landlords (Bhatkars),disconnected from the common people
+Occupation,Landlords (Bhatkars),arrogant and elitist
+Occupation,Seafarers (Tarvottis),hardworking
+Occupation,Seafarers (Tarvottis),reckless
+Occupation,Seafarers (Tarvottis),wealthy
+Occupation,Seafarers (Tarvottis),globe-trotters
+Occupation,Seafarers (Tarvottis),carefree
+Occupation,Seafarers (Tarvottis),distant from family
+Occupation,Tenants (Mundkars),Exploited
+Occupation,Tenants (Mundkars),Simple-minded
+Occupation,Tenants (Mundkars),Resilient
+Occupation,Toddy Tappers (Rendus),Village drunkards
+Occupation,Toddy Tappers (Rendus),Honest laborers
+Occupation,Toddy Tappers (Rendus),Feni producers
+Occupation,Toddy Tappers (Rendus),Risk-takers
+Occupation,Toddy Tappers (Rendus),Uneducated
+Occupation,Toddy Tappers (Rendus),Essential to village life
+Occupation,Toddy Tappers (Rendus),Rough / Rugged
+Occupation,Toddy Tappers (Rendus),Caste-proud (Bhandari)
+Occupation,Politicians (Goan),"Party-hoppers / ""Frogs"" (Defectors)"
+Occupation,Politicians (Goan),Land grabbers / Conversion agents
+Occupation,Politicians (Goan),Driven by personal interest
+Occupation,Politicians (Goan),Corrupt
+Occupation,Politicians (Goan),Fake promises (Foti)
+Occupation,Politicians (Goan),Builder-lobby puppets
+Occupation,Politicians (Goan),Vote buyers (Cash for votes)
+Occupation,Politicians (Goan),Opportunists
+Occupation,Politicians (Goan),Dynastic (Family Raj)
+Occupation,Poders (Traditional Bakers),Punctual / Early risers
+Occupation,Poders (Traditional Bakers),Hardworking
+Occupation,Poders (Traditional Bakers),Essential to village life
+Occupation,Poders (Traditional Bakers),Friendly / Chatty
+Occupation,Poders (Traditional Bakers),Traditional
+Occupation,Poders (Traditional Bakers),Honest
+Religion,Catholics,festive
+Religion,Catholics,devout
+Religion,Catholics,community-oriented
+Religion,Catholics,party-loving
+Religion,Catholics,culturally rich
+Religion,Catholics,rigid in beliefs
+Religion,Catholics,prone to gossip
+Religion,Catholics,hospitable
+Religion,Muslims,communal
+Religion,Muslims,hardworking
+Religion,Muslims,clannish
+Religion,Muslims,dangerous
+Religion,Muslims,religious
+Religion,Muslims,business-minded
+Religion,Hindus,religious
+Religion,Hindus,conservative
+Religion,Hindus,festive
+Religion,Hindus,superstitious
+Religion,Hindus,family-oriented
+Religion,Hindus,caste-conscious
+Religion,Hindus,aloof
+Religion,Hindus,wealthy
+Religion,Hindus,spiritual
+Nativity,Migrants (Bhaile),Hardworking
+Nativity,Migrants (Bhaile),Culturally insensitive
+Nativity,Migrants (Bhaile),lack civic sense
+Nativity,Migrants (Bhaile),Money-minded
+Nativity,Migrants (Bhaile),Uneducated
+Nativity,Migrants (Bhaile),Resourceful
+Nativity,Migrants (Bhaile),Overcrowding local areas
+Nativity,Migrants (Bhaile),Land grabbers
+Nativity,Locals (Goans),Susegad (Laid-back/Lazy)
+Nativity,Locals (Goans),Fish-curry-rice eaters
+Nativity,Locals (Goans),Alcohol-loving
+Nativity,Locals (Goans),assumed to be Christians
+Nativity,Locals (Goans),Music and football lovers
+Nativity,Locals (Goans),Westernized
+Nativity,Locals (Goans),Hospitable
+Nativity,Locals (Goans),Fun-loving
+Nativity,Locals (Goans),Susceptible to vices
+Nativity,Locals (Goans),Party animals
+Nativity,Locals (Goans),Xenophobic towards outsiders
+Nativity,Tourists,Beach-loving
+Nativity,Tourists,Party animals
+Nativity,Tourists,Uninhibited
+Nativity,Tourists,Overly loud
+Nativity,Tourists,Casual dressers
+Nativity,Tourists,Disrespectful of local customs
+Nativity,Tourists,Bargain hunters
+Nativity,Tourists,Drug users
+Nativity,Gulfies (Gulf Returnees/Kuwaitkars),Obsessed with gold
+Nativity,Gulfies (Gulf Returnees/Kuwaitkars),Builds 'Cake Houses'
+Nativity,Gulfies (Gulf Returnees/Kuwaitkars),Culturally disconnected
+Nativity,Gulfies (Gulf Returnees/Kuwaitkars),Status-conscious
+Nativity,Gulfies (Gulf Returnees/Kuwaitkars),English-speaking aspirants
+Region,Northern Goans (Bardezkars),Laid-back lifestyle
+Region,Northern Goans (Bardezkars),Party enthusiasts
+Region,Northern Goans (Bardezkars),Culturally rich
+Region,Northern Goans (Bardezkars),Proud of their heritage
+Region,Northern Goans (Bardezkars),Reluctant to change
+Region,Northern Goans (Bardezkars),Loud and boisterous
+Region,Northern Goans (Bardezkars),Superstitious
+Region,Northern Goans (Bardezkars),Strong community ties
+Region,South Goans (Sashtikars),Old money / Aristocratic
+Region,South Goans (Sashtikars),Susegad (Extremely laid-back)
+Region,South Goans (Sashtikars),Dislike Northern Goa chaos
+Age,Youth,carefree
+Age,Youth,party-loving
+Age,Youth,adventurous
+Age,Youth,lazy
+Age,Youth,disrespectful
+Age,Youth,well-educated
+Age,Elderly,wise and knowledgeable
+Age,Elderly,set in their ways
+Age,Elderly,caretakers of culture
+Age,Elderly,Nostalgic for the past
+Age,Elderly,spiritual or religious
+Gender,Men,Laid-back
+Gender,Men,Macho
+Gender,Men,Alcohol-loving
+Gender,Men,Hardworking
+Gender,Men,Family-oriented
+Gender,Women,Traditional homemaker
+Gender,Women,Reluctant to speak up
+Gender,Women,Religious devotee
+Gender,Women,Expert cook
+Gender,Women,Submissive partner
+Gender,Women,Community organizer
